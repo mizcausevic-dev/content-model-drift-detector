@@ -31,7 +31,7 @@ Headless CMS stacks look clean until content models start moving under real oper
 ## Local run
 
 ```powershell
-Set-Location "C:\Users\chaus\dev\repos\content-model-drift-detector"
+cd content-model-drift-detector
 npm install
 npm run dev
 ```
